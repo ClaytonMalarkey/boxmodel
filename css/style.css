@@ -4,6 +4,7 @@
     border-width: 5px;
     border-style: dashed;
     border-color: yellow;
+    margin: 5px;
 }
 #p2 {
     background-color: yellow;
@@ -11,6 +12,7 @@
     border-width: 5px;
     border-style: double;
     border-color: black;
+    margin: 5px;
 }
 #h21 {
     background-color: blue;
@@ -18,4 +20,5 @@
     border-width: 5px;
     border-style: dotted;
     border-color: red;
+    margin: 5px;
 }
